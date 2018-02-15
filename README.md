@@ -1,3 +1,4 @@
+
 # gCore
 Repository for Sharing information on the gCore Initiative
 
@@ -14,19 +15,19 @@ gCore Student and Staff represent the core details that need to be shared with a
 What is gStudentCore?
 gStudentCore is a flat object that can be represented in JSON or XML. It consists of:
 
- 		Optionally:
-Gender
-BirthDate
-Email
-Homegroup
-LocalId
-StateId
-RefId
+Optionally:
+Gender 
+BirthDate 
+Email 
+Homegroup 
+LocalId 
+StateId 
+RefId 
 
 What is gStaffCore?
 gStaffCore represents the details of staff (teachers, administration staff) that need to be shared with an application. A flat object that can be represented in JSON or XML consisting of:
 
- 		Optionally:
+Optionally:
 Phone
 Email 
 LocalId
